@@ -6,4 +6,5 @@ set(VERSION_MINOR 0)
 
 project(${PROJECT_NAME} VERSION ${VERSION_MAJOR}.${VERSION_MINOR} LANGUAGES CXX)
 
+add_subdirectory(libs)
 add_subdirectory(app)
