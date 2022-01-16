@@ -36,7 +36,7 @@ void framebufferSizeCallback(GLFWwindow *window, int width, int height)
     glViewport(0, 0, width, height);
 }
 
-int main(unsigned int argCount, const char *const *const argValues)
+int main(int argCount, const char *const *const argValues)
 {
     try
     {
