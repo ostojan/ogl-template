@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.21.4)
 
 set(PROJECT_NAME "OpenGL template")
 set(VERSION_MAJOR 1)
